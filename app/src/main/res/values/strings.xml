@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dorsal</string>
+    <string name="powered_by">Powered By</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_email">Your email</string>
+    <string name="log_in">Login</string>
+    <string name="fb_login">Facebook Login</string>
+    <string name="forgot_password"><u>Forgot Password</u></string>
+    <string name="your_password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="logo_app">logo</string>
+    <string name="ic_email">email</string>
+    <string name="logo">logo</string>
+    <string name="number_vesion">number_vesion</string>
+    <string name="ic_lock">ic_lock</string>
+</resources>
